@@ -1,9 +1,18 @@
 config/database.yml
+*~
+*.cache
+*.log
+*.pid
+tmp/**/*
+.DS\_Store
+db/cstore/**
+doc/api
+doc/app
+doc/plugins
+coverage/*
 db/*.sqlite3
-log/*.log
-log/*.pid
-tmp/**/*"
-
+*.tmproj
+Capfile
 
 # See http://help.github.com/ignore-files/ for more about ignoring files.
 #
