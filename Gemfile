@@ -6,10 +6,6 @@ gem 'rails', '3.2.3'
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
 gem 'sqlite3'
-gem 'jquery-rails'
-gem 'coffee-rails'
-gem 'sass-rails'
-gem 'pg'
 
 #=======================================
 # used to encrypt the password.
